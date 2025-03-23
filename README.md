@@ -16,9 +16,9 @@ Open browser and enter the company name for news analysis.
 
 yaml
 
-### **6️⃣ `static/` (For Hindi Audio Files)**
+### `static/` (For Hindi Audio Files)**
 📍 **Location**: `news-summarization-tts/static/`  
 🔹 **Purpose**: Stores generated **MP3** files for TTS output.
 
-✅ **Create this folder manually:**
+
 
