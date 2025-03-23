@@ -1,7 +1,9 @@
-requests
-beautifulsoup4
-nltk
-gtts
 fastapi
 uvicorn
+requests
+textblob
+spacy
+gtts
 streamlit
+google-cloud-texttospeech
+deep-translator
